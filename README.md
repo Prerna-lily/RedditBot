@@ -13,7 +13,8 @@ This Python script generates content for Reddit posts using Groq AI and posts it
 
 Before running the script, you need to install the required libraries.
 
+Also the screenshots include the post posted by the Bot and also the proof of authentication and posting.
+
+
 ```bash
 pip install praw groq
-
-Also the screenshots include the post posted by the Bot and also the proof of authentication and posting.
