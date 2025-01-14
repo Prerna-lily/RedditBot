@@ -13,7 +13,7 @@ def authenticate_reddit():
         client_secret='',
         user_agent='Chatbot by EquipmentCivil5912',
         username='',
-        password='password'
+        password=''
     )
     logging.info("Reddit authentication successful.")
     return reddit
